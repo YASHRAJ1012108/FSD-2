@@ -1,0 +1,25 @@
+ownmodule and eventmodule url module and parsing ch-3 5marks 2 puchi
+filesystem http mimp module ch-2
+path and os module,chalk and validtaor mcq
+
+ch-1 json-repl mcq
+Write a function 'ArrayToObject' which takes in an array of arrays, and returns an object with each pair of elements in the array as a key-value pair and store the result in one arraytoobject.txt file.
+
+Input=[['Country', India'], ['State', 'Gujarat'], ['City', ‘Ahmedabad’]]
+Output= { Country  : ' India ', State  : ' Gujarat ',  City  :  ‘Ahmedabad’ }
+mimp    
+Example
+imp
+Write node js script to fetch values from url given below and display output as asked.
+"https://www.google.com/exam.txt?c1=Hello&c2=FSD2 T1 Test&c3=Welcome to LJU#AllTheBest"
+1) Data must be written as below in file named “exam.txt”. File name must be fetched from the url given above.
+Output:
+Hello!
+Welcome to LJU FSD2 T1 Test
+#AllTheBest
+2) Read content from file “exam.txt” and send response to server and display data in “/” page in same format as above but in H1 tag and in red color.
+3) If any other page is requested it shows “Page not found” message in plain text.
+ch-1 4 or 5(3 marks),repl,path,os,chalk,validator,url mcq
+ch-2 10
+ch-3 11
+"key" must
